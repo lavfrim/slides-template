@@ -1,0 +1,1 @@
+Slides template based on gulp
