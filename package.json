@@ -1,0 +1,19 @@
+{
+  "name": "slides-template",
+  "version": "1.0.0",
+  "description": "Slides template based on gulp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.69.7"
+  }
+}
